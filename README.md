@@ -8,4 +8,4 @@
 
 ## Estatísticas do GitHub
 [![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=kauenoites&show_icons=true&theme=radical)](https://github.com/kauenoites)
-<img loading="lazy" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauenoites&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauenoites&layout=compact&langs_count=7&theme=dracula"/>
