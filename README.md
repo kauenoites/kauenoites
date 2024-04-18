@@ -7,7 +7,7 @@
   
 
 ## Estatísticas do GitHub
-<p align="center">
-  [![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=kauenoites&show_icons=true&theme=radical)](https://github.com/kauenoites)
+  [![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=kauenoites&show_icons=true&theme=radical)](https://github.com/kauenoites)]
+  <p align="center">
 <img loading="lazy" height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauenoites&layout=compact&langs_count=7&theme=dracula"/>
 </p>
