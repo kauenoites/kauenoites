@@ -1,6 +1,4 @@
 # Estudante Sistemas de Informação e SQL Enjoyer
-
-##Chill
 ![Lain](https://tenor.com/baeMq.gif)
 
 ## Principais Tecnologias
