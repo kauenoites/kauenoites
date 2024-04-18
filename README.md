@@ -7,7 +7,8 @@
   
 
 ## Estatísticas do GitHub
-  [![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=kauenoites&show_icons=true&theme=radical)](https://github.com/kauenoites)]
-  <p align="center">
-<img loading="lazy" height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauenoites&layout=compact&langs_count=7&theme=dracula"/>
-</p>
+<div>
+<a href="https://github.com/kauenoites">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauenoites&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=kauenoites&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
