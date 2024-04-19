@@ -1,4 +1,4 @@
-# Estudante Sistemas de Informação e SQL Enjoyer
+# Estudante de Sistemas de Informação e SQL Enjoyer
 ![Lain](https://c.tenor.com/Bpv9wTLKMskAAAAd/tenor.gif)
 
 ## Principais Tecnologias
