@@ -1,9 +1,9 @@
-# php lover
+# 
 ![Lain](https://c.tenor.com/Bpv9wTLKMskAAAAd/tenor.gif)
 
 ## Principais Tecnologias
 
-- Linguagens de Programação: [C, Python, JavaScript, SQL]
+- Linguagens de Programação: [C, PHP, JavaScript, SQL]
 - Ferramentas: [VSCode, MySQLWorkbench]
   
 
