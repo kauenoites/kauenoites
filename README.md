@@ -3,7 +3,7 @@
 
 ## Principais Tecnologias
 
-- Linguagens de Programação: [C, PHP, JavaScript, SQL]
+- [C, PHP, Python, SQL]
 - Ferramentas: [VSCode, MySQLWorkbench]
   
 
