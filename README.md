@@ -59,8 +59,8 @@
 <h2 align="left">Estatísticas de GitHub</h2>
 
 <div style="display: flex; align-items: center;">
-  <a href="https://github.com/kauedias" style="flex: 1;">
-    <img src="https://github-readme-stats.vercel.app/api?username=kauedias&show_icons=true&theme=radical" alt="Kaue's GitHub stats" />
+  <a href="https://github.com/kauenoites" style="flex: 1;">
+    <img src="https://github-readme-stats.vercel.app/api?username=kauenoites&show_icons=true&theme=radical" alt="Kaue's GitHub stats" />
   </a>
 </div>
 
