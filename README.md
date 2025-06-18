@@ -3,7 +3,7 @@
 </div>
 
 <div style="display: flex; align-items: center; gap: 20px;">
-  <h3 style="flex: 1; margin: 0;">Desenvolvedor Back-End e Suporte Técnico</h3>
+  <h3 style="flex: 1; margin: 0;">Back-End e Suporte Técnico</h3>
 </div>
 
 <p align="left">
@@ -21,8 +21,6 @@
   </a>
 </p>
 
-- :office: &nbsp;Atuando com **Suporte Técnico e Suporte a Sistemas**  
-- :speech_balloon: &nbsp;Gosto de compartilhar conhecimento e aprender sempre  
 - :computer: &nbsp;Conecte-se comigo no **[LinkedIn](https://www.linkedin.com/in/kaue-dias/)**
 
 <br>
